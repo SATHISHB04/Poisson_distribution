@@ -1,6 +1,10 @@
 # Fitting Poisson  distribution
 
 # Date :05.10.2024
+
+# Name:SATHISH.B
+
+# Register No:24900077
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
